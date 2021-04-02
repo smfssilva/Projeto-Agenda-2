@@ -5,8 +5,6 @@ from datetime import datetime
 
 fake = Faker()
 
-
-
 conexao = sqlite3.connect('db.sqlite3')
 cursor = conexao.cursor()
 
@@ -34,3 +32,4 @@ for linha in cursor.fetchall():
 
 cursor.close()
 conexao.close()
+

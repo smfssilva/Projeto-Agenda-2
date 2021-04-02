@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "cstrap.python-snippets",
+        "njqdev.vscode-python-typehint",
+        "nexsabre.vscode-python-snippets",
+        "kinfe.python-snippet-for-beginners",
+        "filwaline.vscode-postfix-python",
+        "xirider.livecode",
+        "dongli.python-preview",
+        "ms-python.python",
+        "giancarlopro.faker-snippets",
+        "deerawan.vscode-faker",
+        "stuartelimu.django-template-snippets"
+    ]
+}
